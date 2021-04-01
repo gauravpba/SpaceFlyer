@@ -1,0 +1,18 @@
+Implementations in game:
+
+Menu:
+- Background Music
+- Select Level to play
+
+Level 1:
+- Player Movement 
+- AI Logic
+- Particle Effects for Player explosion (Sparks and Smoke)
+- Particle Effect for AI UFO Laser
+- Sound effect for Player Explosion
+- Sound effect for AI UFO Laser
+- Background Music 
+
+Level 2: 
+- Landscape
+- Water 
